@@ -2,10 +2,20 @@
 
 Builds your react app and generates a zip file including the build information.
 
+## Pre requisites
+
+```bash
+1. Node.js
+2. NPM
+3. React
+4. Git
+5. zip/unzip
+```
+
 ## Usage
 
 ```bash
-$ bash build.sh
+bash build.sh
 ```
 
 ## Sequence of steps it performs

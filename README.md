@@ -5,6 +5,15 @@ my daily life bash assistant
 ## Contents
 
 1. [React build script](react/build/README.md)
+2. [Few pre-requisites](utils/pre-requisites/README.md)
+
+## Operating systems
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="64" height="64">
+
+## Tech/tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="64" height="64"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="Bash" width="64" height="64"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" height="64" width="64"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="64" width="64">
 
 ## LICENSE
 
