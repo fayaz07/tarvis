@@ -29,3 +29,7 @@ bash build.sh
 7. Writing build info file
 8. Zipping build files
 9. Deleting temp and build dirs
+
+## Tech/tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="64" height="64" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" width="64" height="64"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg" alt="Bash" width="64" height="64"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" height="64" width="64"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" height="64" width="64">
